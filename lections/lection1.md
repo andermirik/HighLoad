@@ -17,11 +17,19 @@
 ### @PathVariable
 ### @RequestBody
 ### @RequestHeader
+### Multipart File
+### Хорошие практики
+#### лимитирование findAll
+##### пагинация
+###### пагинация прокруткой
+### Плохие практики
+#### скачивание файла через FS
 ### ResponseEntity
     Отличия ResponseEntity от возвращаемой модели
 ### @Valid @Validated
 ### Filter request
 ### ExceptionHandler
+
 ## Spring data Jpa
 ### @Entity
 #### @OneToMany, @ManyToOne, @ManyToMany
