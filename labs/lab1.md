@@ -37,7 +37,7 @@
 
 > В изготовлении рецепта `receipt_id` используется `count` продуктов типа `product_id`
 
-![](lab1/catzER.jpg)
+![](catzER.jpg)
 
 ### Требования
 
