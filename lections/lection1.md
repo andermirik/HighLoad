@@ -8,7 +8,11 @@
 ### Component Scan
 ### Component, Service, Repository
 ### Autowired vs constructor injection
+### Circular reference
+### Conditions
+### JSR250
 ### Primary, Qualifier
+
 ## RestController
 ### RestController vs Controller
 ### @RequestMapping
